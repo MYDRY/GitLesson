@@ -6,8 +6,8 @@ Gitについてtanacchiが知ってることとか
 わかりやすく解説してくれてるサイトとか紹介しますので  
 読んでみてね
 
-* About_Issue.md
+* About_Issue.md  
   Issueの飛ばし方を書いてます
 
-* Links.md
+* Links.md  
    良さげなサイトのリンクを貼ってます
