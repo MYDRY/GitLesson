@@ -6,5 +6,5 @@ Gitについてtanacchiが知ってることとか
 
 Element | Description  
 --- | ---  
-Basic_command.md | 基本的なコマンドだけまとめてます  
-Links.md | 良さげなサイトのリンクを貼ってます  
+[BasicCommands.md](https://github.com/tanacchi/GitLesson/blob/master/BasicCommands.md "BasicCommands") | 基本的なコマンドだけまとめてます  
+[Links.md](https://github.com/tanacchi/GitLesson/blob/master/Links.md "Links") | 良さげなサイトのリンクを貼ってます  
