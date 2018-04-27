@@ -1,4 +1,4 @@
-# Git_lesson
+# GitLesson
 
 Gitについてtanacchiが知ってることとか  
 解説が載ってるサイトとか紹介しますので
