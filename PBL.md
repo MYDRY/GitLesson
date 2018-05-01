@@ -5,7 +5,7 @@ Gitは本講義のみならず研究室や企業によっては利用してい�
 布教やらステマやら多くて申し訳ない。
 
 # 覚えておきたい項目
-だいたい [基本の「き」]("https://github.com/tanacchi/GitLesson/blob/master/BasicCommands.md") と内容は重複しますがココにも書いておきます。
+だいたい [基本の「き」](https://github.com/tanacchi/GitLesson/blob/master/BasicCommands.md#%E5%9F%BA%E6%9C%AC%E3%81%AE%E3%81%8D- "き") と内容は重複しますがココにも書いておきます。
 
 ## 作業を始める前に
 自分の作業ディレクトリにて
@@ -23,7 +23,7 @@ git pull
   > 1. エディタが開かれると思います。  
   > 2. `i` を押して「挿入モード」にします。  
   > 3. コミットメッセージを書きます。  
-  >    コミットメッセージの書き方は [Links.md]("https://github.com/tanacchi/GitLesson/blob/master/Links.md#commit") を参考に。  
+  >    コミットメッセージの書き方は [Links.md](https://github.com/tanacchi/GitLesson/blob/master/Links.md#commit) を参考に。  
   >    本講義ではコミットメッセージについてはそこまで細かく言いません。  
   >    ドットインストールを進めている間は  
   >    `"Finish #01"`  
@@ -77,7 +77,8 @@ git a --all
 git reset HEAD --hard
 ```
 とすると Untracked files (まだ一度もaddされたことのないファイル=新規作成されたファイル)も含めて  
-直前のコミットの状態に戻すことができます。  
+直前のコミットの状態に戻すことができます。  
+Untracked files は消滅します。
 
 
 このように、コミット単位での変更取消などができるので  
