@@ -1,6 +1,6 @@
 # GitLesson
 
-Gitについてtanacchiが知ってることとか  
+Gitについて @tanacchi が知ってることとか  
 解説が載ってるサイトとか紹介しますので読んでみてください。
 
 総合システム工学PBLメンバーへ→[PBL.md](https://github.com/tanacchi/GitLesson/blob/master/PBL.md "三浦班")
